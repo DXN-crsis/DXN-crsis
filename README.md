@@ -6,12 +6,20 @@
 
 ### About
 
-Full-stack developer building AI-driven interfaces, real-time media, and systems-level tooling.
-I work end to end - WebGL and browser 3D on the front, Node and Python services in the middle,
-Go and low-level networking underneath.
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=D80202&center=true&vCenter=true&width=720&height=45&lines=Full-Stack+Developer;AI+%26+Real-Time+Systems;Systems+%26+Defensive+Security" alt="typing" />
+</div>
 
-- Focus: real-time AI avatars, streaming voice, and desktop/OS automation
-- Interests: performance, protocol design, and defensive security
+I build AI-driven interfaces, real-time media, and systems-level tooling - and I ship the whole
+stack myself: WebGL and browser 3D on the front, Node and Python services in the middle, Go and
+raw sockets underneath. I care about latency, clean protocols, and code that holds up in production.
+
+<p>
+<img src="https://img.shields.io/badge/AI_%26_Avatars-D80202?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Real--Time_Media-D80202?style=flat-square&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/Desktop_%26_OS_Automation-D80202?style=flat-square&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Defensive_Security-D80202?style=flat-square&logo=linux&logoColor=white" />
+</p>
 
 ### Tech
 
