@@ -16,9 +16,8 @@ raw sockets underneath. I care about latency, clean protocols, and code that hol
 
 <p>
 <img src="https://img.shields.io/badge/AI_%26_Avatars-D80202?style=flat-square&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Real--Time_Media-D80202?style=flat-square&logo=socketdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/Desktop_%26_OS_Automation-D80202?style=flat-square&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Defensive_Security-D80202?style=flat-square&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Real--Time_Media-FFFFFF?style=flat-square&logo=socketdotio&logoColor=000000" />
+<img src="https://img.shields.io/badge/Defensive_Security-000000?style=flat-square&logo=linux&logoColor=white" />
 </p>
 
 ### Tech
@@ -30,16 +29,16 @@ raw sockets underneath. I care about latency, clean protocols, and code that hol
 <img src="https://img.shields.io/badge/Go-D80202?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 <p>
-<img src="https://img.shields.io/badge/Node.js-D80202?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Three.js-D80202?style=for-the-badge&logo=threedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-D80202?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/WebSocket-D80202?style=for-the-badge&logo=socketdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/Qt-D80202?style=for-the-badge&logo=qt&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=nodedotjs&logoColor=000000" />
+<img src="https://img.shields.io/badge/Three.js-FFFFFF?style=for-the-badge&logo=threedotjs&logoColor=000000" />
+<img src="https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=000000" />
+<img src="https://img.shields.io/badge/WebSocket-FFFFFF?style=for-the-badge&logo=socketdotio&logoColor=000000" />
+<img src="https://img.shields.io/badge/Qt-FFFFFF?style=for-the-badge&logo=qt&logoColor=000000" />
 </p>
 <p>
-<img src="https://img.shields.io/badge/Google_Gemini-D80202?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-D80202?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-D80202?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ### Featured Projects
