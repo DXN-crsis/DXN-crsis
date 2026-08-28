@@ -1,19 +1,17 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=760&height=70&lines=Daxon;AI+Interfaces+%E2%80%94+Real-Time+Systems;Systems+Programming" alt="Daxon" />
+<img src="https://raw.githubusercontent.com/DXN-crsis/DXN-crsis/main/banner.png" alt="DXN - Full-Stack Solutions for All Platforms" width="100%" />
 
 </div>
 
----
-
 ### About
 
-Developer working across AI-driven interfaces, real-time media, and systems-level tooling.
-I build LLM-powered applications, browser 3D, and low-level networking software — front end to OS.
+Full-stack developer building AI-driven interfaces, real-time media, and systems-level tooling.
+I work end to end - WebGL and browser 3D on the front, Node and Python services in the middle,
+Go and low-level networking underneath.
 
 - Focus: real-time AI avatars, streaming voice, and desktop/OS automation
-- Comfortable end to end: WebGL front ends, Node and Python services, Go network code
-- Interested in performance, protocol design, and defensive security
+- Interests: performance, protocol design, and defensive security
 
 ### Tech
 
@@ -36,13 +34,13 @@ I build LLM-powered applications, browser 3D, and low-level networking software 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### Activity
+### Featured Projects
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DXN-crsis&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DXN-crsis&layout=compact&hide_border=true&langs_count=8&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DXN-crsis&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=c9d1d9&bg_color=0d1117&title_color=58a6ff&color=c9d1d9" width="820" />
-
-</div>
+| Project | Description | Stack |
+| --- | --- | --- |
+| [Windows-mcp](https://github.com/DXN-crsis/Windows-mcp) | MCP server exposing the Windows desktop to AI assistants | Python |
+| [host-firewall-ids](https://github.com/DXN-crsis/host-firewall-ids) | Host firewall with rule-based intrusion detection | Python |
+| [ai-vtuber](https://github.com/DXN-crsis/ai-vtuber) | Gemini-driven 3D avatar with skeletal animation | JavaScript |
+| [realtime-tts-call](https://github.com/DXN-crsis/realtime-tts-call) | Real-time voice calls via Gemini and ElevenLabs | JavaScript |
+| [packet-engine](https://github.com/DXN-crsis/packet-engine) | High-throughput UDP network load generator | Go |
+| [ai-vrm-controller](https://github.com/DXN-crsis/ai-vrm-controller) | AI-controlled VRM avatar with generative motion | TypeScript |
