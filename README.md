@@ -2,23 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/DXN-crsis/DXN-crsis/main/banner.png" alt="DXN - Full-Stack Solutions for All Platforms" width="100%" />
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/DXN-crsis/DXN-crsis/main/terminal.svg" alt="daxon@dxn terminal" width="720" />
+
 </div>
-
-### About
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=D80202&center=true&vCenter=true&width=800&height=45&lines=Full-Stack+Developer%2C+All+Platforms;Real-Time+3D+%2F+Streaming+Voice+%2F+Raw+Sockets;From+WebGL+to+Windows+Internals;Latency+Is+the+Enemy" alt="typing" />
-</div>
-
-I build AI-driven interfaces, real-time media, and systems-level tooling - and I ship the whole
-stack myself: WebGL and browser 3D on the front, Node and Python services in the middle, Go and
-raw sockets underneath. I care about latency, clean protocols, and code that holds up in production.
-
-<p>
-<img src="https://img.shields.io/badge/AI_%26_Avatars-D80202?style=flat-square&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Real--Time_Media-FFFFFF?style=flat-square&logo=socketdotio&logoColor=000000" />
-<img src="https://img.shields.io/badge/Defensive_Security-000000?style=flat-square&logo=linux&logoColor=white" />
-</p>
 
 ### Tech
 

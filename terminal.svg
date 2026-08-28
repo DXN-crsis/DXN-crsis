@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="820" height="276" viewBox="0 0 820 276" font-family="ui-monospace,'Cascadia Code','Courier New',monospace">
+<rect x="6" y="6" width="808" height="264" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<rect x="6" y="6" width="808" height="34" rx="10" fill="#161b22"/>
+<rect x="6" y="24" width="808" height="16" fill="#161b22"/>
+<line x1="6" y1="40" x2="814" y2="40" stroke="#30363d" stroke-width="1"/>
+<circle cx="26" cy="23" r="6" fill="#D80202"/>
+<circle cx="46" cy="23" r="6" fill="#FFFFFF"/>
+<circle cx="66" cy="23" r="6" fill="#000000" stroke="#30363d" stroke-width="1"/>
+<text x="410.0" y="27" fill="#6e7681" font-size="13" text-anchor="middle">daxon@dxn: ~</text>
+<defs><clipPath id="clip0"><rect x="22" y="55" height="27" width="0"><animate attributeName="width" dur="9.0s" repeatCount="indefinite" values="0;0;203;203;0" keyTimes="0;0.02;0.1;0.95;1" calcMode="linear"/></rect></clipPath><clipPath id="clip1"><rect x="22" y="82" height="27" width="0"><animate attributeName="width" dur="9.0s" repeatCount="indefinite" values="0;0;374;374;0" keyTimes="0;0.12;0.18;0.95;1" calcMode="linear"/></rect></clipPath><clipPath id="clip2"><rect x="22" y="109" height="27" width="0"><animate attributeName="width" dur="9.0s" repeatCount="indefinite" values="0;0;266;266;0" keyTimes="0;0.21;0.29;0.95;1" calcMode="linear"/></rect></clipPath><clipPath id="clip3"><rect x="22" y="136" height="27" width="0"><animate attributeName="width" dur="9.0s" repeatCount="indefinite" values="0;0;509;509;0" keyTimes="0;0.31;0.37;0.95;1" calcMode="linear"/></rect></clipPath><clipPath id="clip4"><rect x="22" y="163" height="27" width="0"><animate attributeName="width" dur="9.0s" repeatCount="indefinite" values="0;0;239;239;0" keyTimes="0;0.4;0.48;0.95;1" calcMode="linear"/></rect></clipPath><clipPath id="clip5"><rect x="22" y="190" height="27" width="0"><animate attributeName="width" dur="9.0s" repeatCount="indefinite" values="0;0;518;518;0" keyTimes="0;0.5;0.56;0.95;1" calcMode="linear"/></rect></clipPath></defs>
+<text x="24" y="74" font-size="15" clip-path="url(#clip0)"><tspan fill="#D80202" font-weight="bold">daxon@dxn:~$ </tspan><tspan fill="#FFFFFF">whoami</tspan></text>
+<text x="24" y="101" font-size="15" fill="#b8c0cc" clip-path="url(#clip1)">Daxon  —  Full-Stack Developer  ·  DXN</text>
+<text x="24" y="128" font-size="15" clip-path="url(#clip2)"><tspan fill="#D80202" font-weight="bold">daxon@dxn:~$ </tspan><tspan fill="#FFFFFF">cat about.txt</tspan></text>
+<text x="24" y="155" font-size="15" fill="#b8c0cc" clip-path="url(#clip3)">AI interfaces  ·  real-time media  ·  systems tooling</text>
+<text x="24" y="182" font-size="15" clip-path="url(#clip4)"><tspan fill="#D80202" font-weight="bold">daxon@dxn:~$ </tspan><tspan fill="#FFFFFF">ls ~/focus</tspan></text>
+<text x="24" y="209" font-size="15" fill="#b8c0cc" clip-path="url(#clip5)">ai-avatars   realtime-voice   os-automation   security</text>
+<text x="24" y="236" font-size="15"><tspan fill="#D80202" font-weight="bold">daxon@dxn:~$ </tspan></text>
+<rect x="141" y="223" width="9" height="16" fill="#D80202"><animate attributeName="opacity" dur="1s" repeatCount="indefinite" values="1;1;0;0" keyTimes="0;0.5;0.5;1"/></rect>
+</svg>
