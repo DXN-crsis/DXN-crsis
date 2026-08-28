@@ -7,7 +7,7 @@
 ### About
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=D80202&center=true&vCenter=true&width=720&height=45&lines=Full-Stack+Developer;AI+%26+Real-Time+Systems;Systems+%26+Defensive+Security" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=D80202&center=true&vCenter=true&width=800&height=45&lines=Full-Stack+Developer%2C+All+Platforms;Real-Time+3D+%2F+Streaming+Voice+%2F+Raw+Sockets;From+WebGL+to+Windows+Internals;Latency+Is+the+Enemy" alt="typing" />
 </div>
 
 I build AI-driven interfaces, real-time media, and systems-level tooling - and I ship the whole
