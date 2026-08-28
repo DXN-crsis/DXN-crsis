@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/DXN-crsis/DXN-crsis/main/terminal.svg" alt="daxon@dxn terminal" width="720" />
+<img src="https://raw.githubusercontent.com/DXN-crsis/DXN-crsis/main/terminal.gif" alt="daxon@dxn terminal" width="720" />
 
 </div>
 
